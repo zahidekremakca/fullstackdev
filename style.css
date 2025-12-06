@@ -1,0 +1,24 @@
+h1{
+    color:aquamarine;
+    font-size:36px;
+    text-align:center;
+}
+p{
+    color:coral;
+    font-size:18px;
+    line-height:1.6;
+}
+html{
+    background-color:lavender;
+    font-family:Arial, sans-serif;
+    
+}
+img{
+    border-radius:8px;
+    box-shadow:2px 2px 12px rgba(0,0,0,0.1);
+    
+}
+h2{
+    color:slateblue;
+    font-size:28px;
+}

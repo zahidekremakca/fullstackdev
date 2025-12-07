@@ -9,7 +9,6 @@ p{
     line-height:1.6;
 }
 html{
-    text-align:center;
     background-color:lavender;
     font-family:Arial, sans-serif;
     
@@ -22,5 +21,4 @@ img{
 h2{
     color:slateblue;
     font-size:28px;
-
 }
